@@ -2,8 +2,8 @@
 
 # Ejemplo Spring Data JPA (DAGSS 2022) 
 
-\* Ejemplo de creación de proyectos Spring Boot 
-\* Ejemplo de definición de repositorios Spring Data  JPA
+* Ejemplo de creación de proyectos Spring Boot 
+* Ejemplo de definición de repositorios Spring Data  JPA
 
 ## Previo
 ### Requisitos previos
@@ -166,7 +166,7 @@ La anotación `@SpringBootApplication` engloba a las anotaciones  `@ComponentSca
 ## CREAR REPOSITORIOS
 
 ### Copiar clases de entidades (se usarán mismas de `ejemplo-persistencia`)
-Crear el directorio para el paquete `entidades` y copiar los ficheros Java con la definición de las entidades (disponibles en [https://github.com/esei-si-dagss/ejemplo-persistencia-23/tree/main/src/main/java/es/uvigo/dagss/pedidos/entidades](https://github.com/esei-si-dagss/ejemplo-persistencia-22/tree/main/src/main/java/es/uvigo/dagss/pedidos/entidades))
+Crear el directorio para el paquete `entidades` y copiar los ficheros Java con la definición de las entidades (disponibles en [https://github.com/esei-si-dagss/ejemplo-persistencia-23/tree/main/src/main/java/es/uvigo/dagss/pedidos/entidades](https://github.com/esei-si-dagss/ejemplo-persistencia-23/tree/main/src/main/java/es/uvigo/dagss/pedidos/entidades))
 
 ```sh
 mkdir -p src/main/java/es/uvigo/dagss/pedidos/entidades
